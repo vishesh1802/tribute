@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.header {
+    height: 60%;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+.photo {
+    height: 50%;
+    text-align: center;
+    background-color: white;
+}
+.auto {
+    text-align: center;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 1cm;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+}
+.foot{
+text-align: center;
+background-color: white;
+}
